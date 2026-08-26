@@ -1,0 +1,86 @@
+{
+  "product": "Cyberspace 绘见空间",
+  "versionId": "2.5.0",
+  "pages": [
+    {
+      "versionId": "2.5.0",
+      "pageId": "PAGE-005",
+      "path": "/pages/2.5.0/PAGE-005/"
+    },
+    {
+      "versionId": "2.5.0",
+      "pageId": "PAGE-010",
+      "path": "/pages/2.5.0/PAGE-010/"
+    },
+    {
+      "versionId": "2.5.0",
+      "pageId": "PAGE-020",
+      "path": "/pages/2.5.0/PAGE-020/"
+    },
+    {
+      "versionId": "2.5.0",
+      "pageId": "PAGE-025",
+      "path": "/pages/2.5.0/PAGE-025/"
+    },
+    {
+      "versionId": "2.5.0",
+      "pageId": "PAGE-030",
+      "path": "/pages/2.5.0/PAGE-030/"
+    },
+    {
+      "versionId": "2.5.0",
+      "pageId": "PAGE-040",
+      "path": "/pages/2.5.0/PAGE-040/"
+    },
+    {
+      "versionId": "2.5.0",
+      "pageId": "PAGE-050",
+      "path": "/pages/2.5.0/PAGE-050/"
+    },
+    {
+      "versionId": "2.5.0",
+      "pageId": "PAGE-060",
+      "path": "/pages/2.5.0/PAGE-060/"
+    },
+    {
+      "versionId": "2.5.0",
+      "pageId": "PAGE-070",
+      "path": "/pages/2.5.0/PAGE-070/"
+    },
+    {
+      "versionId": "2.5.0",
+      "pageId": "PAGE-080",
+      "path": "/pages/2.5.0/PAGE-080/"
+    },
+    {
+      "versionId": "2.5.0",
+      "pageId": "PAGE-090",
+      "path": "/pages/2.5.0/PAGE-090/"
+    },
+    {
+      "versionId": "2.5.0",
+      "pageId": "PAGE-110",
+      "path": "/pages/2.5.0/PAGE-110/"
+    },
+    {
+      "versionId": "2.5.0",
+      "pageId": "PAGE-120",
+      "path": "/pages/2.5.0/PAGE-120/"
+    },
+    {
+      "versionId": "2.5.0",
+      "pageId": "PAGE-130",
+      "path": "/pages/2.5.0/PAGE-130/"
+    },
+    {
+      "versionId": "2.5.0",
+      "pageId": "PAGE-140",
+      "path": "/pages/2.5.0/PAGE-140/"
+    },
+    {
+      "versionId": "2.5.0",
+      "pageId": "PAGE-150",
+      "path": "/pages/2.5.0/PAGE-150/"
+    }
+  ]
+}
